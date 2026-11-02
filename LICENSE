@@ -1,0 +1,76 @@
+Kerwin 非商业署名许可 1.0
+SPDX-License-Identifier: LicenseRef-Kerwin-NC-1.0
+Copyright © 2026 Kerwin <kerwin126@foxmail.com>
+
+本文件为本项目原创部分的自定义许可。它包含非商业限制，不是 OSI
+认可的开源许可证。中文为本许可的控制文本。
+
+1. 范围
+本许可适用于 Better lyrics | 浮词中由 Kerwin 有权许可的原创源代码、
+原创图标、文档及原创演示素材。第三方代码、库、运行时、字体、歌曲、
+歌词及其他第三方内容不因此改变许可或权属；详见 THIRD_PARTY_NOTICES.md。
+未明确授予的权利由相应权利人保留。
+
+2. 非商业授权
+在遵守本许可的条件下，你可以为非商业目的免费使用、研究、复制、
+修改本软件，并以源代码或编译形式免费分享本软件及其衍生版本。
+本授权不是独占授权，不授予对第三方内容的额外权利。
+
+3. 商业使用须另行获得书面许可
+未经 Kerwin 事先书面授权，不得以取得直接或间接商业利益为主要目的，
+使用、复制、修改、分发、出售、出租、集成或通过网络提供本软件或
+其衍生版本。这包括但不限于：收费销售、付费会员或付费下载、依靠
+软件或衍生版本中的广告获利、换壳或仅修改界面后商业化、集成进商业
+产品、以此提供收费托管或收费服务。
+免费提供并不当然属于非商业使用；个人无商业目的的学习、研究、
+试验、兴趣项目和私人使用可以属于本条款允许的用途。
+修改名称、图标、界面、语言、框架或部分功能不会解除本条款。
+
+4. 必须保留真实作者和来源
+无论以何种形式分享原版或衍生版本，都必须随附本许可和原有版权、
+作者及第三方许可说明，不得删除、隐藏或以自己的署名替换原作者署名。
+有图形界面的衍生版本须在可方便访问的关于或致谢位置，清楚显示
+“基于 Better lyrics | 浮词，原作者 Kerwin”，并提供原仓库链接：
+https://github.com/Kerwin0126/Better-lyrics
+同时保留源文件中原有的版权和作者信息。你可以为自己的真实贡献署名，
+但不得把原版或其衍生版本宣传为完全由自己原创，或暗示获得作者背书。
+
+5. 修改说明及再分发
+发布修改版时，须显著说明这是修改版、修改者及主要修改内容。
+对本项目原创部分的修改版须继续按本许可提供，不得增加限制第三方
+库原有权利的条款，也不得为本项目原创部分另授商业权利。
+分享编译版本时，须一并提供其对应的本项目源代码，或提供无需付费、
+实际可取得该版本对应源代码的地址，并提供运行及构建说明。
+原作者和其他贡献者各自保有其合法享有的版权。
+
+6. 第三方权利及兼容性例外
+本许可的非商业及署名要求仅约束本项目有权按本许可授权的原创部分。
+它不限制第三方在 MIT、LGPL、GPL、PSF 或其他适用许可下给予你的权利。
+尤其不限制 LGPL 组件本身的使用、修改、再分发、替换或重新链接，
+以及为调试对 LGPL 组件的修改而进行所需的逆向工程。
+本许可不得被解释为排除法律不能排除的合理使用或其他法定权利。
+独立获取或合法分离的第三方组件继续依其自己的许可处理。
+
+7. 名称与标识
+本许可不授予把“浮词”、项目图标、Kerwin 的姓名或学校信息用于
+虚假背书、仿冒官方版本、冒认作者或误导性宣传的权利。
+为真实说明来源和进行上述必要署名而合理使用项目名称是允许的。
+
+8. 违约及终止
+违反本许可时，你依据本许可获得的授权终止；这不影响第三方许可
+独立赋予的权利。恢复本项目授权须取得 Kerwin 的书面同意。
+
+9. 无担保
+在适用法律允许的范围内，本软件按“现状”提供，不作适销性、特定
+用途适用性或不侵权等保证；作者不承担使用、无法使用、数据丢失或
+第三方服务变化造成的损失。法律不能排除的责任不受此条限制。
+
+许可咨询及书面授权联系：kerwin126@foxmail.com
+
+English summary (not a replacement for the Chinese terms):
+The original project material is source-available for noncommercial use,
+study, modification and sharing. Preserve author attribution, license and
+upstream notices; identify modifications and provide corresponding source
+when distributing binaries. Do not misrepresent authorship or monetize
+the project or derivatives without written permission from Kerwin.
+Third-party licenses and non-waivable legal rights are unaffected.

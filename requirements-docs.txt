@@ -1,0 +1,3 @@
+# Author: Kerwin
+-r requirements.txt
+Pillow==13.0.0
